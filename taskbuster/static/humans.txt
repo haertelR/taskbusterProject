@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Renan Haertel -- Dev -- @renan_haertel
 
 # THANKS
 
-    <name>
+    
 
 # TECHNOLOGY COLOPHON
 
